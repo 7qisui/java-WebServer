@@ -53,7 +53,7 @@ public class HttpResponse {
 						// 构建HTML响应
 						StringBuilder result = new StringBuilder("<html>");
 						result.append("<meta charset=\"UTF-8\">");  // 指定字符编码为 UTF-8
-						result.append("<head><title>计算机网络课程设计-陈宇璐-孙驰-任海涵");
+						result.append("<head><title>计算机网络课程设计-小陈");
 						result.append(requestedUri);
 						result.append("</title>");
 						result.append("<style>");
@@ -123,7 +123,7 @@ public class HttpResponse {
 								.append("<p><a href=\"/\">Go to Home Page</a></p>")
 								.append("</main>")
 								.append("<footer style=\"background-color: #ff6347; color: #ffffff; padding: 10px; border-radius: 0 0 5px 5px;\">")
-								.append("<h3>&copy; 2024 - 陈宇璐 - 孙驰 - 任海涵 - 计算机网络课程设计.</h3>")
+								.append("<h3>&copy; 2024 - 小陈 - 计算机网络课程设计.</h3>")
 								.append("</footer>")
 								.append("</div>")
 								.append("</body>")
