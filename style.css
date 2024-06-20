@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+.libraryCatalog {
+    border: 1px solid #ccc;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.metadata, .books {
+    margin-bottom: 20px;
+}
+
+.metadata h2, .books h2 {
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+    color: #0056b3;
+}
+
+.metadata div, .book {
+    margin-bottom: 10px;
+    line-height: 1.6;
+}
+
+.book {
+    border: 1px solid #eee;
+    padding: 15px;
+    background-color: #fafafa;
+    margin-bottom: 10px;
+}
+
+.book h3 {
+    margin-top: 0;
+    color: #007bff;
+}
+
+.book p {
+    margin: 5px 0;
+}
+
+.book p strong {
+    color: #333;
+}

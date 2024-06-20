@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<libraryCatalog>
+    <metadata>
+        <libraryName>Central Library</libraryName>
+        <location>123 Main St, Anytown, USA</location>
+        <contact>
+            <phone>(123) 456-7890</phone>
+            <email>info@centrallibrary.com</email>
+        </contact>
+        <lastUpdated>2024-06-17</lastUpdated>
+    </metadata>
+    <books>
+        <book>
+            <title>Effective Java</title>
+            <author>Joshua Bloch</author>
+            <publisher>Addison-Wesley</publisher>
+            <year>2018</year>
+            <isbn>978-0134685991</isbn>
+            <language>English</language>
+            <availability>Available</availability>
+        </book>
+        <book>
+            <title>深入理解计算机系统</title>
+            <author>Randal E. Bryant, David R. O'Hallaron</author>
+            <publisher>机械工业出版社</publisher>
+            <year>2015</year>
+            <isbn>978-7111539678</isbn>
+            <language>中文</language>
+            <availability>Checked Out</availability>
+        </book>
+        <book>
+            <title>Clean Code</title>
+            <author>Robert C. Martin</author>
+            <publisher>Prentice Hall</publisher>
+            <year>2008</year>
+            <isbn>978-0132350884</isbn>
+            <language>English</language>
+            <availability>Available</availability>
+        </book>
+    </books>
+</libraryCatalog>
